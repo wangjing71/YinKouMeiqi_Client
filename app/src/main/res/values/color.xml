@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="dackgret">#a9a9a9</color>
+    <color name="dackgret1">#D8C4E6</color>
+    <color name="select">#1F7EAF</color>
+    <color name="unselect">#1A4E67</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="grid_line">#E7E7E4</color>
+
+</resources>
